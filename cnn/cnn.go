@@ -4,8 +4,8 @@ import (
 	"math"
 
 	"github.com/ldsec/lattigo/v2/ckks"
-	"github.com/oksuman/snu-mghe/mkckks"
-	"github.com/oksuman/snu-mghe/mkrlwe"
+	"github.com/seunghu-kim/snu-mghe/mkckks"
+	"github.com/seunghu-kim/snu-mghe/mkrlwe"
 )
 
 func Convolution(eval *mkckks.Evaluator, rlkSet *mkrlwe.RelinearizationKeySet, rtkSet *mkrlwe.RotationKeySet,

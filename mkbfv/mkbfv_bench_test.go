@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/oksuman/snu-mghe/mkrlwe"
+	"github.com/seunghu-kim/snu-mghe/mkrlwe"
 )
 
 func BenchmarkMKBFV(b *testing.B) {

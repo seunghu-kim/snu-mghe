@@ -1,4 +1,4 @@
-module github.com/oksuman/snu-mghe
+module github.com/seunghu-kim/snu-mghe
 
 go 1.13
 

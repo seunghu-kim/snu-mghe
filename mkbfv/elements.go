@@ -1,6 +1,6 @@
 package mkbfv
 
-import "github.com/oksuman/snu-mghe/mkrlwe"
+import "github.com/seunghu-kim/snu-mghe/mkrlwe"
 
 type Ciphertext struct {
 	*mkrlwe.Ciphertext

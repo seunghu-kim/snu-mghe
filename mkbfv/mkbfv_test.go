@@ -1,6 +1,6 @@
 package mkbfv
 
-import "github.com/oksuman/snu-mghe/mkrlwe"
+import "github.com/seunghu-kim/snu-mghe/mkrlwe"
 
 import "github.com/stretchr/testify/require"
 import "github.com/ldsec/lattigo/v2/rlwe"

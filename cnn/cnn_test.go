@@ -15,8 +15,8 @@ import (
 	"github.com/ldsec/lattigo/v2/rlwe"
 	"github.com/ldsec/lattigo/v2/utils"
 
-	"github.com/oksuman/snu-mghe/mkckks"
-	"github.com/oksuman/snu-mghe/mkrlwe"
+	"github.com/seunghu-kim/snu-mghe/mkckks"
+	"github.com/seunghu-kim/snu-mghe/mkrlwe"
 )
 
 var (

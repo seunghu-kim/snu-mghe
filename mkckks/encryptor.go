@@ -2,7 +2,7 @@ package mkckks
 
 import "github.com/ldsec/lattigo/v2/rlwe"
 import "github.com/ldsec/lattigo/v2/ckks"
-import "github.com/oksuman/snu-mghe/mkrlwe"
+import "github.com/seunghu-kim/snu-mghe/mkrlwe"
 
 type Encryptor struct {
 	*mkrlwe.Encryptor
